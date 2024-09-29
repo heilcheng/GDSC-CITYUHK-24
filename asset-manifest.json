@@ -1,18 +1,17 @@
 {
   "files": {
-    "main.css": "/GDSC-CITYUHK-24/static/css/main.435d5fe5.chunk.css",
-    "main.js": "/GDSC-CITYUHK-24/static/js/main.704f432d.chunk.js",
-    "main.js.map": "/GDSC-CITYUHK-24/static/js/main.704f432d.chunk.js.map",
-    "runtime~main.js": "/GDSC-CITYUHK-24/static/js/runtime~main.61e86405.js",
-    "runtime~main.js.map": "/GDSC-CITYUHK-24/static/js/runtime~main.61e86405.js.map",
-    "static/js/2.bbc244fd.chunk.js": "/GDSC-CITYUHK-24/static/js/2.bbc244fd.chunk.js",
-    "static/js/2.bbc244fd.chunk.js.map": "/GDSC-CITYUHK-24/static/js/2.bbc244fd.chunk.js.map",
-    "static/js/3.a29efab2.chunk.js": "/GDSC-CITYUHK-24/static/js/3.a29efab2.chunk.js",
-    "static/js/3.a29efab2.chunk.js.map": "/GDSC-CITYUHK-24/static/js/3.a29efab2.chunk.js.map",
+    "main.css": "/GDSC-CITYUHK-24/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/GDSC-CITYUHK-24/static/js/main.4b14ec2d.chunk.js",
+    "main.js.map": "/GDSC-CITYUHK-24/static/js/main.4b14ec2d.chunk.js.map",
+    "runtime~main.js": "/GDSC-CITYUHK-24/static/js/runtime~main.1ac850c0.js",
+    "runtime~main.js.map": "/GDSC-CITYUHK-24/static/js/runtime~main.1ac850c0.js.map",
+    "static/js/2.925d8cdc.chunk.js": "/GDSC-CITYUHK-24/static/js/2.925d8cdc.chunk.js",
+    "static/js/2.925d8cdc.chunk.js.map": "/GDSC-CITYUHK-24/static/js/2.925d8cdc.chunk.js.map",
+    "static/js/3.44b60ca4.chunk.js": "/GDSC-CITYUHK-24/static/js/3.44b60ca4.chunk.js",
+    "static/js/3.44b60ca4.chunk.js.map": "/GDSC-CITYUHK-24/static/js/3.44b60ca4.chunk.js.map",
     "index.html": "/GDSC-CITYUHK-24/index.html",
-    "precache-manifest.dd4a985dd98d94567656c69401f1257c.js": "/GDSC-CITYUHK-24/precache-manifest.dd4a985dd98d94567656c69401f1257c.js",
+    "precache-manifest.61b0d1eec10790aa337670f7227e9fd0.js": "/GDSC-CITYUHK-24/precache-manifest.61b0d1eec10790aa337670f7227e9fd0.js",
     "service-worker.js": "/GDSC-CITYUHK-24/service-worker.js",
-    "static/css/main.435d5fe5.chunk.css.map": "/GDSC-CITYUHK-24/static/css/main.435d5fe5.chunk.css.map",
-    "static/media/logo.svg": "/GDSC-CITYUHK-24/static/media/logo.06e73328.svg"
+    "static/css/main.5ecd60fb.chunk.css.map": "/GDSC-CITYUHK-24/static/css/main.5ecd60fb.chunk.css.map"
   }
 }

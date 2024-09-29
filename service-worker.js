@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/GDSC-CITYUHK-24/precache-manifest.dd4a985dd98d94567656c69401f1257c.js"
+  "/GDSC-CITYUHK-24/precache-manifest.61b0d1eec10790aa337670f7227e9fd0.js"
 );
 
 self.addEventListener('message', (event) => {
